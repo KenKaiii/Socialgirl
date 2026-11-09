@@ -4,7 +4,10 @@
 
 A web application that helps you track and analyze content performance across YouTube, Instagram, and TikTok. Search for videos, view engagement metrics, and monitor your API usage all in one place.
 
-By Ken Kai does AI <https://www.skool.com/kenkai>
+By Ken Kai does AI <https://www.skool.com/raid>
+
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
 
 ## What You Need Before Starting
 
